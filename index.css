@@ -1,0 +1,23 @@
+.body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+#container {
+    background-color: #CCC;
+    width: 70%;
+    max-width: 1000px;
+}
+#btn-send {
+    width: 100px;
+    border-width: 2px;
+    border-color: black;
+    background-color: rgb(14, 102, 225);
+    color: white;
+    font: bold;
+}
+#message-input {
+    width: 800px;
+    padding: 3px;
+}
